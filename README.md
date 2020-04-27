@@ -1,6 +1,6 @@
 # Android Picasso-Library Cache Recycler
 
-Get bitmap from [picasso](http://github.com/squareup/picasso) cache.
+Get bitmap from [picasso](http://github.com/square/picasso) cache.
 Usage: `getBitmap(context, url)`
 
 
